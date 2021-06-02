@@ -1,0 +1,9 @@
+
+
+
+throw Error();
+
+
+
+
+throw CompError()
